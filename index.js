@@ -1,8 +1,3 @@
-console.log("Hello World");
-console.log("Hello World");
-console.log("Hello World");
-
-console.log("hello world computer A");
-
-
-console.log("hello world 2");
+console.log("This is line 1");
+console.log("This is line 2");
+console.log("This is line 3");
